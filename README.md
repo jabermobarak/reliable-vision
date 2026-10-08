@@ -121,4 +121,4 @@ Master’s student in Artificial Intelligence and Big Data
 MGTU STANKIN
 ## Report
 
-[Read the project report](Reliable_Vision_project_Report.pdf)
+[Read the project report](Reliable_Vision_project_report.pdf)
